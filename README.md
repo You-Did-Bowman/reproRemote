@@ -1,2 +1,3 @@
 Meep Möp
-Das hier schreibt mein Kollege!
+Das hier schreibt mein Kollege! 
+Und nun schreibe ich!
